@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https:/movin3d.com/">
-  <img width="900" src="https://github.com/MOVIN3D/.github/blob/main/assets/images/Github_profile_figure.jpeg?raw=true"></a>
+  <img width="500" src="https://github.com/MOVIN3D/.github/blob/main/assets/images/Github_profile_figure.jpeg?raw=true"></a>
 </p>
 
 ## What we are building ⚒️👷
